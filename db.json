@@ -1,15 +1,12 @@
 {
-  "user": [
+  "results": [
     {
-     "id":1,
-     "brand":"Suzuki",
-     "gair":"manual",
-     "year":2011,
-     "kms":120322,
-     "desc":"Suzuki car manual 6 speed",
-     "price":6 
-    },
-    {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+    "correct_answer": "True",
+    "incorrect_answers": [ "False" ]
     }
   ]
 }

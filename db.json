@@ -1,12 +1,9 @@
 {
   "results": [
     {
-    "category": "Entertainment: Video Games",
-    "type": "boolean",
+    "name": "Joy",
     "difficulty": "easy",
-    "question": "Peter Molyneux was the founder of Bullfrog Productions.",
-    "correct_answer": "True",
-    "incorrect_answers": [ "False" ]
+    "score": 0,
     }
   ]
 }
